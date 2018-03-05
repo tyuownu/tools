@@ -5,3 +5,5 @@ useful tools
   step:
     1. bash record.sh
     2. show_pic(in matlab)
+
+2. kalman filter in matlab
