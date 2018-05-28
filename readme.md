@@ -7,3 +7,5 @@ useful tools
     2. show_pic(in matlab)
 
 2. kalman filter in matlab
+
+3. ceres_example tells us how to ceres.
